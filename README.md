@@ -1,0 +1,1 @@
+# pulumi-localstack-s3-bucket
